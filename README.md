@@ -4,7 +4,6 @@ Description:
 The Ship Reservation System (User Part) is a web-based application built using the Spring MVC framework, designed to allow users to conveniently book ship tickets and manage their reservations. The system provides the following key features:
 
 User Authentication:
-
 Users can register for an account or log in if they already have one.
 User authentication ensures that personal information and reservations are secure.
 
