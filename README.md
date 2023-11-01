@@ -1,2 +1,2 @@
-# Spring-MVC-project
-Flight reservation system project using Spring MVC
+# Spring-MVC-project Ship Reservation User Part
+Ship reservation system user part using Spring MVC
